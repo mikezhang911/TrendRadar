@@ -116,129 +116,6 @@ Kyowa Kirin
 蓝帆医疗
 刘文静
 
-脑机接口
-Brain-Computer Interface
-BCI
-神经接口
-神经工程
-神经调控
-脑电信号
-脑成像
-fMRI
-EEG
-神经科学
-大脑
-神经元
-突触
-神经网络
-深度学习
-人工智能
-AI医疗
-神经修复
-神经假体
-脑深部刺激
-DBS
-经颅磁刺激
-TMS
-经颅直流电刺激
-tDCS
-神经反馈
-脑机融合
-意识上传
-神经编码
-神经解码
-
-长寿药
-抗衰老
-延寿
-长生不老
-永生
-老化
-衰老
-抗老化
-逆龄
-青春
-寿命延长
-生命延长
-长寿科技
-衰老生物学
-细胞衰老
-端粒
-端粒酶
-干细胞
-间充质干细胞
-胚胎干细胞
-诱导多能干细胞
-iPSC
-线粒体
-自噬
-清除衰老细胞
-Senolytics
-二甲双胍
-雷帕霉素
-NMN
-烟酰胺单核苷酸
-白藜芦醇
-姜黄素
-NAD+
-辅酶Q10
-抗氧化剂
-自由基
-氧化应激
-糖化终产物
-AGEs
-衰老标志物
-衰老相关分泌表型
-SASP
-衰老相关β-半乳糖苷酶
-SA-β-gal
-长寿基因
-FOXO
-SIRT
-mTOR
-AMPK
-Klotho基因
-长寿蛋白
-抗衰老药物
-Geroprotectors
-衰老干预
-再生医学
-组织工程
-器官再生
-生物打印
-3D打印
-类器官
-器官芯片
-Organ-on-Chip
-生物老化
- chronological aging
- replicative aging
- hormesis
- hormetic
- proteostasis
- inflammaging
- immunosenescence
- frailty
- multimorbidity
- healthspan
- lifespan
- longevity
- mortality
- morbidity
- disability
- dementia
- Alzheimer's
- Parkinson's
- neurodegeneration
- neuroprotective
- neuroregeneration
- cognitive decline
- age-related diseases
- geriatric
- gerontology
- biogerontology
- geroscience
-
 药品
 药物
 药企
@@ -343,7 +220,7 @@ GCP
 远程医疗
 互联网医疗
 在线问诊
-telemedicine
+ telemedicine
 
 AI医疗
 智慧医疗
