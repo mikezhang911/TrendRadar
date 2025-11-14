@@ -1,762 +1,241 @@
-药品
-药物
-制药
+药明康德
+葛均波
+
+恒瑞医药
+孙飘扬
+
+迈瑞医疗
+李西廷
+
+爱尔眼科
+陈邦
+
+百济神州
+欧雷强
+
+甘李药业
+倪健
+
 药企
 医药
 医疗
+制药
+
+辉瑞
+Pfizer
+
+诺华
+Novartis
+
+罗氏
+Roche
+
+强生
+J&J
+
+默沙东
+Merck
+
+赛诺菲
+Sanofi
+
+阿斯利康
+AstraZeneca
+
+葛兰素史克
+GSK
+
+拜耳
+Bayer
+
+勃林格殷格翰
+Boehringer
+
+武田制药
+Takeda
+
+第一三共
+Daiichi Sankyo
+
+卫材
+Eisai
+
+中外制药
+Chugai
+
+参天制药
+Santen
+
+小野制药
+Ono
+
+住友制药
+Sumitomo Dainippon
+
+盐野义
+Shionogi
+
+大冢制药
+Otsuka
+
+田边三菱
+Mitsubishi Tanabe
+
+协和麒麟
+Kyowa Kirin
+
+基蛋生物
+苏恩本
+
+凯普生物
+管秩生
+
+达安基因
+何蕴韶
+
+华大基因
+汪建
+
+迈瑞医疗
+李西廷
+
+乐普医疗
+蒲忠杰
+
+鱼跃医疗
+吴光明
+
+稳健医疗
+李建全
+
+英科医疗
+刘方毅
+
+蓝帆医疗
+刘文静
+
+药品
+药物
+药企
+制药
+
+疫苗
+抗体
+基因
+细胞
+
+疾病
+治疗
+诊断
+检查
+
 医院
 医生
 护士
-治疗
-疗法
-疫苗
-抗体
-细胞
-基因
-DNA
-RNA
-蛋白质
-病毒
-细菌
-感染
-疾病
-病症
-诊断
-检查
-手术
-康复
-健康
-保健
-营养
-维生素
+
 中药
 西药
 处方药
 非处方药
+
 抗生素
 消炎药
 止痛药
 降压药
 降糖药
 抗癌药
+
 化疗
 放疗
-免疫
-免疫力
-病理
-生理
-药理
-毒理
-临床
-试验
-研发
-开发
-生产
-制造
-质量
-安全
-监管
-审批
+免疫治疗
+
+临床试验
+药物研发
+药物生产
+
+医疗器械
+医疗设备
+
+健康管理
+预防医学
+康复医学
+
+医保
+医疗保障
+
+药品监管
+药监局
 FDA
-CFDA
+EMA
+
 GMP
 GLP
-医疗器械
-设备
-注射器
-输液
-输血
-化验
-检验
-B超
-CT
-MRI
-X光
-心电图
-血压计
-血糖仪
-体温计
-口罩
-防护服
-消毒
-灭菌
-无菌
-卫生
-防疫
-流行病
-传染病
-慢性病
-急性病
-过敏
-副作用
+GCP
+
+药物安全
 不良反应
-禁忌
-说明书
-剂量
-用法
-用量
-疗程
-复诊
-随访
-医保
-保险
-费用
-价格
-成本
-专利
-仿制药
-原料药
-辅料
-包材
-储存
-运输
-冷链
-配送
-药店
-药房
-连锁
-门诊
-急诊
-住院
-病房
-ICU
-护理
-陪护
-家属
-病历
-档案
-电子病历
-远程医疗
-互联网+
-大数据
-AI诊断
-智能
-数字化
-信息化
-系统
-软件
-硬件
-网络
-云端
-区块链
-物联网
-可穿戴
-传感器
-监测
-检测
-筛查
-预防
-体检
-疫苗接种
-养生
-养老
-医养结合
-康养
-康复
-理疗
-针灸
-推拿
-拔罐
-刮痧
-食疗
-药膳
-保健食品
-功能食品
-膳食补充剂
-益生菌
-酶
-激素
-神经
-内分泌
-心血管
-呼吸
-消化
-泌尿
-生殖
-骨骼
-肌肉
-皮肤
-眼科
-耳鼻喉
-口腔
-妇科
-儿科
-男科
-肿瘤
-精神
-心理
-神经科
-传染科
-重症医学
-麻醉
-疼痛
-康复医学
-预防医学
-全科医学
-家庭医生
-私人医生
-在线问诊
-预约挂号
-分级诊疗
-医联体
-公立医院
-民营医院
-专科医院
-综合医院
-医学院
-医科大学
-附属医院
-教学
-科研
-学术
-论文
-期刊
-会议
-论坛
-展会
-博览会
-协会
-学会
-基金会
-慈善
-公益
-捐赠
-援助
-政策
-法规
-法律
-条例
-标准
-规范
-指南
-共识
-伦理
-道德
-人文
-文化
-教育
-培训
-继续教育
-进修
-实习
-规培
-执业医师
-执业药师
-职称
-晋升
-绩效
-考核
-薪酬
-待遇
-福利
-就业
-招聘
-人才
-专家
-院士
-教授
-主任医师
-副主任医师
-主治医师
-住院医师
-药师
-技师
-护士长
-护理师
-实习生
-志愿者
-患者
-病人
-就诊
-就医
-挂号
-排队
-等待
-满意度
-投诉
-纠纷
-医患关系
-沟通
-交流
-信任
-理解
-尊重
-隐私
-保密
-知情同意
-自主权
-选择权
-决定权
-生命权
-健康权
-医疗权
-公平
-公正
-公开
-透明
-监督
-举报
-维权
-诉讼
-仲裁
-调解
-协商
-和解
-赔偿
-补偿
-责任
-义务
-权利
-保障
-安全
-有效
-质量可控
-稳定性
-一致性
-等效性
-生物等效
-药代动力学
-药效学
-毒代动力学
-安全性评价
-有效性评价
-风险效益比
-获益风险评估
-个体化用药
-精准医疗
-转化医学
-循证医学
-个性化
-定制
-罕见病
-孤儿药
-儿童用药
-老年用药
-孕妇用药
-哺乳期用药
-肝肾功能不全
 药物相互作用
-配伍禁忌
-稳定性考察
-有效期
-储存条件
-包装规格
+
 剂型
 片剂
 胶囊
-颗粒
-口服液
 注射剂
 外用制剂
-贴剂
-喷雾剂
-滴眼剂
-滴鼻剂
-栓剂
-洗剂
-软膏
-凝胶
-乳膏
-气雾剂
-粉雾剂
-吸入剂
-缓释制剂
-控释制剂
-肠溶制剂
-靶向制剂
-纳米制剂
-微球
-脂质体
-微囊
-植入剂
-透皮吸收
-经皮给药
-静脉注射
-肌肉注射
-皮下注射
-动脉注射
-鞘内注射
-腹腔注射
-关节腔注射
-玻璃酸钠
-甘露醇
-氯化钠
-葡萄糖
-氯化钾
-碳酸氢钠
-乳酸钠
-复方
-组合
-联合用药
-序贯治疗
-维持治疗
-巩固治疗
-诱导治疗
-强化治疗
-支持治疗
-对症治疗
-对因治疗
-替代治疗
-补充治疗
-预防性用药
-治疗性用药
-急救用药
-长期用药
-短期用药
-间歇用药
-连续用药
-按需用药
-规律用药
-按时用药
-按量用药
-足疗程
-足剂量
-最小有效剂量
-最大耐受剂量
-中毒剂量
-致死剂量
-半数致死量
-半数有效量
-治疗指数
-安全范围
-治疗窗
-个体差异
-种族差异
-性别差异
-年龄差异
-体重差异
-遗传多态性
-药物代谢酶
-CYP450
-UGT
-NAT
-GST
-药物转运体
-P糖蛋白
-有机阴离子转运体
-有机阳离子转运体
-药物靶点
-受体
-酶
-离子通道
-核酸
-蛋白质合成
-细胞周期
-凋亡
-坏死
-自噬
- necrosis
-apoptosis
-autophagy
-mitochondria
-cytoplasm
-nucleus
-membrane
-cell wall
-capsule
-flagellum
-pili
-plasmid
-chromosome
-genome
-proteome
-metabolome
-transcriptome
-metagenome
-microbiome
-microbiota
-flora
-fauna
-pathogen
-pathogenic
-virulence
-infectivity
-contagious
-epidemic
-pandemic
-outbreak
-endemic
-sporadic
-cluster
-nosocomial
-iatrogenic
-idiopathic
-congenital
-acquired
-hereditary
-genetic
-chromosomal
-multifactorial
-polygenic
-monogenic
-autosomal
-sex-linked
-dominant
-recessive
-codominant
-incomplete dominance
-variable expressivity
-penetrance
-pleiotropy
-anticipation
-genomic imprinting
-uniparental disomy
-mitochondrial inheritance
-mutation
-deletion
-duplication
-inversion
-translocation
-insertion
-substitution
-frameshift
-nonsense
-missense
-silent
-neutral
-beneficial
-deleterious
-polymorphism
-SNP
-indel
-copy number variation
-structural variation
-aneuploidy
-haploid
-diploid
-polyploid
-karyotype
-chromatid
-centromere
-telomere
-kinetochore
-spindle
-microtubule
-cytokinesis
-meiosis
-mitosis
-gamete
-zygote
-embryo
-fetus
-neonate
-infant
-toddler
-preschooler
-school-age
-adolescent
-adult
-middle-aged
-elderly
-senescence
-aging
-longevity
-lifespan
-healthspan
-quality of life
-well-being
-happiness
-mental health
-physical health
-social health
-spiritual health
-environmental health
-occupational health
-public health
-community health
-global health
-international health
-tropical medicine
-travel medicine
-aviation medicine
-space medicine
-sports medicine
-emergency medicine
-disaster medicine
-military medicine
-naval medicine
-aerospace medicine
-underwater medicine
-hyperbaric medicine
-hypobaric medicine
-radiation medicine
-nuclear medicine
-forensic medicine
-legal medicine
-toxicology
-pharmacology
-pharmaceutics
-pharmacokinetics
-pharmacodynamics
-pharmacogenomics
-pharmacoproteomics
-pharmacometabolomics
-pharmacoeconomics
-pharmacovigilance
-drug discovery
-drug development
-drug delivery
-drug targeting
-drug resistance
-multidrug resistance
-cross-resistance
-collateral sensitivity
-synthetic lethality
-drug repositioning
-drug repurposing
-precision medicine
-personalized medicine
-systems medicine
-regenerative medicine
-translational medicine
-comparative medicine
-experimental medicine
-molecular medicine
-cellular medicine
-tissue engineering
-biomaterials
-biocompatibility
-bioactivity
-bioavailability
-bioequivalence
-biopharmaceutics
-biostatistics
-bioinformatics
-computational biology
-systems biology
-network biology
-synthetic biology
-chemical biology
-structural biology
-molecular biology
-cell biology
-developmental biology
-evolutionary biology
-ecological biology
-marine biology
-plant biology
-animal biology
-microbiology
-virology
-bacteriology
-mycology
-parasitology
-immunology
-immunochemistry
-immunobiology
-immunopathology
-immunogenetics
-immunophenotyping
-immunotherapy
-allergy
-hypersensitivity
-anaphylaxis
-autoimmunity
-autoimmune disease
-immunodeficiency
-primary immunodeficiency
-secondary immunodeficiency
-combined immunodeficiency
-severe combined immunodeficiency
-common variable immunodeficiency
-selective IgA deficiency
-DiGeorge syndrome
-Wiskott-Aldrich syndrome
-chronic granulomatous disease
-leukocyte adhesion deficiency
-hyper-IgE syndrome
-immunodysregulation
-immunosenescence
-immunomodulation
-immunosuppression
-immunostimulation
-immunoenhancement
-immunoadjuvant
-immunoassay
-ELISA
-RIA
-FACS
-flow cytometry
-cytometry
-microscopy
-electron microscopy
-confocal microscopy
-fluorescence microscopy
-phase contrast microscopy
-bright field microscopy
-dark field microscopy
-polarized light microscopy
-fluorescence resonance energy transfer
-FRET
-bioluminescence resonance energy transfer
-BRET
-surface plasmon resonance
-SPR
-isothermal titration calorimetry
-ITC
-circular dichroism
-CD
-nuclear magnetic resonance
-NMR
-mass spectrometry
-MS
-gas chromatography
-GC
-liquid chromatography
-LC
-high performance liquid chromatography
-HPLC
-ultra performance liquid chromatography
-UPLC
-thin layer chromatography
-TLC
-paper chromatography
-gel electrophoresis
-agarose gel electrophoresis
-polyacrylamide gel electrophoresis
-PAGE
-capillary electrophoresis
-CE
-isoelectric focusing
-IEF
-two-dimensional electrophoresis
-2DE
-difference gel electrophoresis
-DIGE
-chromatofocusing
-hydrophobic interaction chromatography
-HIC
-ion exchange chromatography
-IEC
-size exclusion chromatography
-SEC
-affinity chromatography
-AC
-reverse phase chromatography
-RPC
-normal phase chromatography
-NPC
-chiral chromatography
-CC
-supercritical fluid chromatography
-SFC
-micellar electrokinetic chromatography
-MEKC
-capillary electrochromatography
-CEC
-immobilized metal affinity chromatography
-IMAC
-hydroxyapatite chromatography
-HAC
-lectin affinity chromatography
-LAC
-boronate affinity chromatography
-BAC
-dye ligand chromatography
-DLC
-protein A chromatography
-Protein A
-protein G chromatography
-Protein G
-heparin affinity chromatography
-HA
+
+药物代谢
+药代动力学
+药效学
+
+精准医疗
+个体化用药
+
+远程医疗
+互联网医疗
+
+AI医疗
+智慧医疗
+
+生物医药
+创新药
+仿制药
+
+原料药
+药物辅料
+
+药物储存
+冷链运输
+
+药店
+门诊
+急诊
+住院
+
+体检
+疫苗接种
+
+养生
+保健
+营养
+
+维生素
+膳食补充剂
+
+慢性病
+急性病
+传染病
+流行病
+
+心血管疾病
+糖尿病
+癌症
+阿尔茨海默病
+
+医患关系
+医疗纠纷
+知情同意
+
+药物专利
+医药知识产权
+
+医疗政策
+医药改革
